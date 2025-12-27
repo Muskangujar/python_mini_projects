@@ -1,0 +1,9 @@
+Today I went to the {place} and saw a very {adjective} {animal}.
+It was {verb_ing} near the {noun} while wearing a {adjective2} {clothing}.
+Everyone around started to {verb} because it looked so {adjective3}.
+
+Suddenly, my best friend {name} shouted, 
+"That is the most {adjective4} thing I have ever seen!"
+
+In the end, we both decided to {verb2} and eat some {food}.
+It was a truly {adjective5} day.

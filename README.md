@@ -5,25 +5,15 @@ The projects are organized from **easy to hard**, with the goal of strengthening
 
 Rather than just following tutorials, these projects focus on **hands-on implementation**, logical thinking, and writing clean, readable code.
 
----
-
-## 📂 Project Structure
-
-The repository is structured based on difficulty level:
-
-python_mini_projects/
-│
-├── Easy/
-│ ├── beginner-friendly projects
-│
-├── Medium/
-│ ├── logic-intensive projects 
-│
-└── Hard/
-├── advanced projects 
-
-
----
+----------------------------------------------------------------------------
+python_mini_projects:
+  Easy:
+    description: Beginner-friendly Python projects
+  Medium:
+    description: Logic-intensive and intermediate projects
+  Hard:
+    description: Advanced Python projects
+------------------------------------------------------------------------------
 
 ## 🧠 Concepts Covered
 
@@ -53,3 +43,4 @@ Ongoing
 This repository will be **continuously updated** as I add more projects and increase difficulty over time.
 
 Feel free to explore!
+
